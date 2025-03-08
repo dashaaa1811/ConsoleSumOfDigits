@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Подсчет суммы цифр числа
+//Структура:
+//Входные данные: целое число number.
+//Выходные данные: сумма его цифр.
+
 namespace ConsoleSumOfDigits
 {
     internal class Program
